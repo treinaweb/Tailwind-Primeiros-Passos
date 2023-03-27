@@ -7,7 +7,8 @@ module.exports = {
         'inter': ['Inter', 'sans-serif']
       },
       backgroundImage:{
-        'fundo_marrom': "url('../img/fundo_marrom.jpg')"
+        'fundo_marrom': "url('../img/fundo_marrom.jpg')",
+        'cachorro': "url('../img/img_cachorro.jpg')"
       }
     },
   },
