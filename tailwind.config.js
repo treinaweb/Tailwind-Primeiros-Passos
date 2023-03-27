@@ -5,6 +5,9 @@ module.exports = {
     extend: {
       fontFamily:{
         'inter': ['Inter', 'sans-serif']
+      },
+      backgroundImage:{
+        'fundo_marrom': "url('../img/fundo_marrom.jpg')"
       }
     },
   },
